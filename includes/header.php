@@ -12,6 +12,8 @@ session_start();
 <body>
 <nav>
     <a href="/Project/pages/home.php">Home</a>
+    <a href="/Project/pages/about.php">About Us</a>
+    <a href="/Project/pages/contact.php">Contact Us</a>
     <?php if (isset($_SESSION['user'])): ?>
         <a href="/Project/pages/dashboard.php">Dashboard</a>
         <a href="/Project/pages/profile.php">Profile</a>

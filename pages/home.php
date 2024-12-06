@@ -1,8 +1,8 @@
 <?php include('../includes/header.php'); ?>
 <div class="home-page">
     <div class="home-container">
-        <h1>Welcome to the Portfolio Management Tool</h1>
-        <p>View your portfolio effortlessly.</p>
+        <h1>Welcome to the Project Management Tool</h1>
+        <p>View your Projects/Portfolio effortlessly.</p>
         <div class="home-buttons">
             <a href="/Project/pages/register.php" class="btn">Get Started</a>
             <a href="/Project/pages/dashboard.php" class="btn">Dashboard</a>
