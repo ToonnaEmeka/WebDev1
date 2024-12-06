@@ -84,7 +84,7 @@ nav a:hover {
     font-size: 1.2rem;
     font-weight: bold;
     color: #fff;
-    background-color: #ff7a18;
+    background-color: #43cea2;
     text-decoration: none;
     border-radius: 25px;
     transition: background-color 0.3s, transform 0.3s;
@@ -93,7 +93,7 @@ nav a:hover {
 }
 
 .home-buttons .btn:hover {
-    background-color: #e63900;
+    background-color: #43cea2;
     transform: scale(1.05);
 }
 
@@ -103,7 +103,7 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+    background: linear-gradient(135deg, #43cea2, #43cea2);
 }
 
 .form-container {
@@ -144,7 +144,7 @@ nav a:hover {
 }
 
 .input-group input:focus {
-    border-color: #ff7a18;
+    border-color: #43cea2;
     outline: none;
 }
 
@@ -153,7 +153,7 @@ nav a:hover {
     display: inline-block;
     width: 100%;
     padding: 15px 0;
-    background: #ff7a18;
+    background: #43cea2;
     color: #fff;
     font-size: 1.1rem;
     font-weight: bold;
@@ -164,7 +164,7 @@ nav a:hover {
 }
 
 .btn:hover {
-    background: #e63900;
+    background: #43cea2;
     transform: scale(1.05);
 }
 
@@ -176,7 +176,7 @@ nav a:hover {
 }
 
 .switch-link a, .logout-link a {
-    color: #ff7a18;
+    color: #43cea2;
     text-decoration: none;
     font-weight: bold;
 }
@@ -191,7 +191,7 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+    background: linear-gradient(135deg, #43cea2, #43cea2);
     text-align: center;
 }
 
